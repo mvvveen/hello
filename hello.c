@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (void)
 {
-printf ("Hello, iedereen!\n");
+printf ("voedsel\n");
 return 0;
 }
