@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (void)
 {
-printf ("voedsel\n");
+printf ("hoi\n");
 return 0;
 }
